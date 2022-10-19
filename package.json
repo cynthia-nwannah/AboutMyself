@@ -1,0 +1,19 @@
+{
+  "name": "node-js-website",
+  "version": "1.0.0",
+  "description": "this page is about myself assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Nwannah cynthia",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
